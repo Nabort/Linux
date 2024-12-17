@@ -1,0 +1,4 @@
+#!/bin/bash
+# Объединяем содержимое файлов в новый файл
+cat file1.txt file2.txt file3.txt > combined.txt
+echo "Файлы объединены в combined.txt"
